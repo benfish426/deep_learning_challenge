@@ -13,7 +13,8 @@ Results:
 
     Compiling, Training, and Evaluating the Model
 
-    * For my models, I used 3-4 layers of varying neurons size to see how it would affect the accuracy. Similar to my approach with number of neurons/layer, I tried using relu, leaky_relu, and tanh activation functions for all layers, except for the last layer. For the last layer, I used the sigmoid function
+    * For my models, I used 3-4 layers of varying neurons size to see how it would affect the accuracy. Similar to my approach with number of neurons/layer, 
+    I tried using relu, leaky_relu, and tanh activation functions for all layers, except for the last layer. For the last layer, I used the sigmoid function
     * Despite various attempts and trying several different techniques, I was unable to achieve a 75% accuracy rate or higher
     * In my attempts to increase model performance, I tried changing the sizes of my models as well as seeing how choosing particular activation functions would effect my results
 
